@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @al1998petridis
-- 👀 I’m interested in coding
+- 👀 I’m interested in ... take a look on my repos
 - 🌱 I’m currently learning python
 - 📫 How to reach me alepetpan@ece.auth.gr or al1998petridis@gmail.com
 
