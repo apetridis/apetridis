@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @al1998petridis
-- Personal Website: https://al1998petridis.github.io/
+<!-- - Personal Website: https://al1998petridis.github.io/ -->
 - 👀 I’m interested in computer science take a look on my repos
 - 🌱 I’m currently working my thesis on Intruction Detection Systems
 - 📫 How to reach me alepetpan@ece.auth.gr or al1998petridis@gmail.com
