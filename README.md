@@ -107,10 +107,13 @@
 	  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=apetridis&layout=donut&langs_count=5" />
 	</a>
 </div>
-<!-- <div align="center">
+<div align="center">
 	<picture>
+	  <source media="(prefers-color-scheme: dark)" srcset="github-snake-dark.svg" />
+	  <source media="(prefers-color-scheme: light)" srcset="github-snake.svg" />
+	  <img alt="github-snake" src="github-snake.svg" />
 	</picture>
-</div> -->
+</div>
 
 ## Contributions :file_folder:
 1. If you think that any of my repositories could be better please feel free to raise an Issue :hand:.
