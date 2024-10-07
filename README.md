@@ -94,7 +94,27 @@
   <img src='https://img.icons8.com/?size=100&id=13664&format=png&color=000000' height='60' /> 
 <!--   Joomla -->
   <img src='https://img.icons8.com/?size=100&id=12274&format=png&color=000000' height='60' /> 
-
+<!-- PyTorch -->
+	<img src='https://img.icons8.com/?size=100&id=jH4BpkMnRrU5&format=png&color=000000' height='60' />
+<!-- Tensorflow -->
+	<img src='https://img.icons8.com/?size=100&id=n3QRpDA7KZ7P&format=png&color=000000' height='60' />
+<!-- Keras -->
+	<img src='https://img.icons8.com/?size=100&id=z2pN6mJXIC4u&format=png&color=000000' height='60' />
+<!-- PowerBI -->
+	<img src='https://img.icons8.com/?size=100&id=qYfwpsRXEcpc&format=png&color=000000' height='60' />
+<!-- Pandas -->
+	<img src='https://img.icons8.com/?size=100&id=xSkewUSqtErH&format=png&color=000000' height='60' />
+<!-- Jupyter Notebook -->
+	<img src='https://img.icons8.com/?size=100&id=J0SgMWzAxqFj&format=png&color=000000' height='60' />
+<!-- R -->
+	<img src='https://img.icons8.com/?size=100&id=CLvQeiwFpit4&format=png&color=000000' height='60' />
+<!-- MATLAB -->
+	<img src='https://img.icons8.com/?size=100&id=r5Y16PcDkoWI&format=png&color=000000' height='60' />
+<!-- TEX -->
+	<img src='https://img.icons8.com/?size=100&id=piVHs2bMOs6P&format=png&color=000000' height='60' />
+<!-- Azure -->
+	<img src='https://img.icons8.com/?size=100&id=VLKafOkk3sBX&format=png&color=000000' height='60' />
+	
 &nbsp;  
 <p style="font-size:12px; color:#808080;">Icons by <a href="https://icons8.com/" style="color:#808080; text-decoration:none;">Icons8</a></p>
 </div>
