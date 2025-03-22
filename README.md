@@ -1,4 +1,4 @@
-<img src="https://media.licdn.com/dms/image/v2/D4D16AQFBqEl2KAJ5NQ/profile-displaybackgroundimage-shrink_350_1400/profile-displaybackgroundimage-shrink_350_1400/0/1719354636273?e=1733356800&v=beta&t=5uqCrtYhR7gcnxfg-PvuhgNAN_Wdxga7z-QEFOlXKEk" alt="header-image" width="100%">
+<img src="https://media.licdn.com/dms/image/v2/D4D16AQFBqEl2KAJ5NQ/profile-displaybackgroundimage-shrink_350_1400/profile-displaybackgroundimage-shrink_350_1400/0/1719354636273?e=1747872000&v=beta&t=TrdIlfNX2UEJso23otpMTrmFYKHLO1H9q3uTwm2U6nY" alt="header-image" width="100%">
 
 [<img src="https://img.icons8.com/?size=100&id=68406&format=png&color=000000" width="3.5%"/>](https://apetridis.github.io/)  &nbsp;
 [<img src="https://img.icons8.com/color/48/000000/twitter.png" width="3.5%"/>](https://x.com/petridis_al)  &nbsp;
