@@ -117,14 +117,7 @@
 <p style="font-size:12px; color:#808080;">Icons by <a href="https://icons8.com/" style="color:#808080; text-decoration:none;">Icons8</a></p>
 </div>
 <br/>
-<div align="center">
-	<a href="https://github.com/apetridis">
-	  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=apetridis" />
-	</a>
-	<a href="https://github.com/apetridis">
-	  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=apetridis&layout=donut&langs_count=5" />
-	</a>
-</div>
+
 <div align="center">
 	<picture>
 	  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/apetridis/apetridis/output/github-contribution-grid-snake-dark.svg">
